@@ -1,0 +1,105 @@
+body {
+    font-family: arial, sans-serif;
+}
+body {
+    background-color: #d3d3d3;
+}
+
+main, footer { 
+    background-color: #eeeeee;
+    padding: 10px;
+    margin: 30px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0px 50px 0px;
+}
+#container {
+    background-color: white;
+    margin: 20px 75px;
+    padding: 15px 20px;
+    border: 1px solid black;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.2em;
+    border-bottom: 2px solid #8b0000;
+    border-top: 2px solid #8b0000;
+    padding: 20px;
+    margin: 20px;
+}
+
+h2 {
+    padding: 30px;
+    font-size: 1.7em;
+}
+
+h3 { 
+    color: #8b0000;
+}
+
+section {
+    font-size: 1em;
+    border-bottom: 2px solid black;
+    padding: 20px;
+}
+
+.hero  {
+    font-weight: bold;
+}
+
+.saisons {
+    font-style: italic;
+    font-size: 0.7em;
+    padding: 20px;
+}
+
+.serie {
+    background-color: black;
+    color: white;
+    font-size: 0.5em;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#hc-logo {
+    width: 10%;
+    padding: 20px;
+}
+
+p {
+    padding: 20px;
+}
+
+li {
+    color:  #8b0000;
+    background-color: #eeeeee;
+    font-size: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    border: 0px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px 30px;
+}
+
+a:hover {
+    color:  white;
+    background-color: black;
+    border: 0px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px 30px;
+
+}

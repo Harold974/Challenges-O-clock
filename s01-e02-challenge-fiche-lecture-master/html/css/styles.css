@@ -1,0 +1,93 @@
+/* Ici vos styles CSS*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dfefec;
+}
+
+title, h1, h2, h3, h4 {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    background-color: #0dbb9d;
+    font-weight:normal;
+    font-size: 40px;
+}
+
+h2 {
+    color: green;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.8em;
+}
+
+h3 {
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+div {
+    background-color: white;
+}
+
+.intro {
+    background-color: lightyellow;
+}
+
+.bold-yellow {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.overline-italic {
+    font-style: italic;
+    text-decoration: overline;
+}
+
+.and {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#test {
+    background-color: #dfefec;
+    color: #dfefec;
+}
+
+
+.lastparagraph {
+    background-color: #0dbb9d;
+    text-align: center;
+}
+#white-normal {
+    color: white;
+}
+
+.black-bold {
+    font-weight: bold;
+    background-color: #0dbb9d;
+}
+
+.white-bold-underline {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.white-bold-underline:hover {
+    color: red;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 25px;
+  }
+  
